@@ -17,10 +17,6 @@ class Exchange
 }
 
 
-
-$priv = '1Vip7e8XR3iby4yOKxTGqGdEB2bqbCw56IyoNozgxop';
-$pub = "3gD2gG8FPxCTJSZzQNFGerzwsRhs8TIZgG284uJDM9Z";
-
 class Bitfinex extends Exchange
 {
     private $endpoint = 'https://api.bitfinex.com/v1/';
