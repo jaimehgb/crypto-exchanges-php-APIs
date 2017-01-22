@@ -1,5 +1,7 @@
 <?php
 
+include 'exchange.php';
+
 class Btc_e extends Exchange
 {
     private $p_endpoint = ''; # public endpoint
