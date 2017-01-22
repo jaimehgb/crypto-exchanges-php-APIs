@@ -1,5 +1,6 @@
 <?php
 
+include 'exchange.php';
 
 class Bter extends Exchange
 {
