@@ -1,5 +1,7 @@
 <?php
 
+include 'exchange.php';
+
 class Exmo extends Exchange
 {
     
