@@ -1,5 +1,7 @@
 <?php
 
+include 'exchange.php';
+
 class BTCTurk extends Exchange
 {
     private $endpoint = 'https://www.btcturk.com/api';
